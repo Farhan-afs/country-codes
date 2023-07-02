@@ -1,4 +1,4 @@
-# Coutnry Classification
+# Country Classification
 
 ## What's Included
 - List of ```country``` codes used to identify countries in Verifiet's API structure.
