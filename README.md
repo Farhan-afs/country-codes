@@ -8,3 +8,4 @@ List of codes to specify the regions inside Verifiet's products and services.
 - Unites States 
 - Canada
 - Global
+- Todo = classify
